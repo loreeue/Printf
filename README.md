@@ -35,6 +35,11 @@ El proyecto consiste en implementar la función `ft_printf`, que replica el comp
    ft_printf("Hola, %s! Tienes %d mensajes.\n", "Loreto", 42);
    ```
 
+3. **Generación de la librería:**
+   ```c
+   make
+   ```
+
 ### Funcionalidades Implementadas
 
 - `%c`: Imprime un carácter.
